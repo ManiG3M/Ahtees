@@ -1,0 +1,13 @@
+filename=$1
+hostname="74.208.147.65"
+username="kumar"
+password="Sachin10"
+
+ftp 
+echo "OPEN $hostname
+USER $username
+PASS $password
+binary
+cd /tmp
+put $filename
+quit" 

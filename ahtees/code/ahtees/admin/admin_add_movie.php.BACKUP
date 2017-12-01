@@ -1,0 +1,505 @@
+<?php 
+require_once('../connections/DB.php');
+include('../connections/tablefuncs.php');
+//mysql_select_db($database_DB, $connDB);
+session_start();
+if (!$_SESSION["userid"])
+{?>
+<script language="javascript">
+parent.parent.location.href='admin.php';
+window.close();
+</script>
+<?php }
+
+if ($_POST || $_REQUEST)
+{
+	if ($_REQUEST["movieid"])
+	{
+		$_SESSION["movieid"] = $_REQUEST["movieid"];
+		unset($_SESSION["awardid"]);
+		unset($_SESSION["mcastid"]);
+		unset($_SESSION["mcasthid"]);
+		unset($_SESSION["mcastpdid"]);
+		unset($_SESSION["mcastcrid"]);
+		unset($_SESSION["drid"]);
+		unset($_SESSION["editlmovie"]);
+		unset($_SESSION["locid"]);
+		unset($_SESSION["pdid"]);
+		unset($_SESSION["studioid"]);
+		unset($_SESSION["mstudiorid"]);
+	}
+
+	if ($_REQUEST["new"])
+	{	
+		unset($_SESSION["movieid"]);
+		unset($_SESSION["awardid"]);
+		unset($_SESSION["mcastid"]);
+		unset($_SESSION["mcasthid"]);
+		unset($_SESSION["mcastpdid"]);
+		unset($_SESSION["mcastcrid"]);
+		unset($_SESSION["drid"]);
+		unset($_SESSION["editlmovie"]);
+		unset($_SESSION["locid"]);
+		unset($_SESSION["pdid"]);
+		unset($_SESSION["studioid"]);
+		unset($_SESSION["mstudiorid"]);
+	}
+
+	if ($_POST["addmovieinfo"]) 
+	{	
+		unset($_POST["addmovieinfo"]);
+		$_POST["release_date"] = date('Y-m-d H:i:s', strtotime($_POST["release_date"]));
+		$_POST["entered_date"] = date('Y-m-d H:i:s', strtotime("now"));
+		$_POST["entered_by"] = $_SESSION["userid"];
+		$_SESSION["movieid"] = add_record("movie_master", $_POST);
+		$_SESSION["moviename"] = $_POST["name"];
+		$usermsg = "<font color='red'>New Movie Added</font>";
+	}
+
+	if ($_POST["editmovieinfo"]) 
+	{	
+		unset($_POST["editmovieinfo"]);
+		$_POST["release_date"] = date('Y-m-d H:i:s', strtotime($_POST["release_date"]));
+		$_POST["updated_date"] = date('Y-m-d H:i:s', strtotime("now"));
+		$_POST["updated_by"] = $_SESSION["userid"];
+		$where = "id = ".$_SESSION["movieid"];
+		modify_record("movie_master", $_POST, $where);
+		$usermsg = "<font color='red'>Customer Updated</font>";
+	}
+} else {
+	unset($_SESSION["movieid"]);
+	unset($_SESSION["awardid"]);
+	unset($_SESSION["mcastid"]);
+	unset($_SESSION["mcasthid"]);
+	unset($_SESSION["mcastpdid"]);
+	unset($_SESSION["mcastcrid"]);
+	unset($_SESSION["drid"]);
+	unset($_SESSION["editlmovie"]);
+	unset($_SESSION["locid"]);
+	unset($_SESSION["pdid"]);
+	unset($_SESSION["studioid"]);
+	unset($_SESSION["mstudiorid"]);
+
+}
+
+if ($_SESSION["movieid"]) 
+{
+	$qry = "SELECT * FROM movie_master WHERE id =".$_SESSION["movieid"];
+	$movies = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+	$movie = mysqli_fetch_assoc($movies);
+	$_SESSION["moviename"] = $movie["name"];
+}
+
+$qry = "SELECT * FROM format_master";
+$formats = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+$format = mysqli_fetch_assoc($formats);
+
+$qry = "SELECT * FROM category_master";
+$categories = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+$category = mysqli_fetch_assoc($categories);
+
+$countcat = 0;
+do {
+	$catid[] = $category["id"];
+	$catdesc[] = $category["description"];
+	$countcat++;
+} while ($category = mysqli_fetch_assoc($categories)); 
+
+$qry = "SELECT * FROM language_master";
+$languages = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+$language = mysqli_fetch_assoc($languages);
+
+$countlang = 0;
+do {
+	$langid[] = $language["id"];
+	$langdesc[] = $language["description"];
+	$countlang++;
+} while ($language = mysqli_fetch_assoc($languages)); 
+
+$qry = "SELECT * FROM rating_master";
+$ratings = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+$rating = mysqli_fetch_assoc($ratings);
+
+$qry = "SELECT * FROM production_cost_master";
+$pcosts = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+$pcost = mysqli_fetch_assoc($pcosts);
+
+$qry = "SELECT * FROM aspect_ratio_master";
+$aratios = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+$aratio = mysqli_fetch_assoc($aratios);
+
+$qry = "SELECT * FROM movie_company_master ORDER BY name";
+$mcompanys = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+$mcompany = mysqli_fetch_assoc($mcompanys);
+
+
+?>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<link href="../includes/cms.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" media="all" href="../calendar/calendar-win2k-1.css" title="win2k-1" />
+
+<!-- main calendar program -->
+<script type="text/javascript" src="../calendar/calendar.js"></script>
+
+<!-- language for the calendar -->
+<script type="text/javascript" src="../calendar/lang/calendar-en.js"></script>
+
+<!-- the following script defines the Calendar.setup helper function, which makes
+     adding a calendar a matter of 1 or 2 lines of code. -->
+<script type="text/javascript" src="../calendar/calendar-setup.js"></script>
+<link rel="stylesheet" type="text/css" href="../tabs/tabcontent.css" />
+
+<script type="text/javascript" src="../tabs/tabcontent.js"></script>
+
+<script type="text/javascript">
+    var GB_ROOT_DIR = "../greybox/";
+</script>
+
+
+<script type="text/javascript" src="../greybox/AJS.js"></script>
+<script type="text/javascript" src="../greybox/AJS_fx.js"></script>
+<script type="text/javascript" src="../greybox/gb_scripts.js"></script>
+<link href="../greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body bgcolor="#CACACA">
+<table width="100%">
+	<tr>
+		<td width="33%"><a href="admin_view_movie.php"><span style="font-size:14px;">Search Movies</span><?php if ($_SESSION["moviename"]) { ?></a></td>
+		<td width="33%" align="center"><span style="font-size:14px; color:#FF9900"><strong><?php echo $_SESSION["moviename"]; ?></strong></span><?php } ?></td>
+		<td width="33%">&nbsp;</td>
+	</tr>
+</table>
+<ul id="movietabs" class="shadetabs">
+<li><a href="#" rel="moviemain" class="selected">Movie Info</a></li>
+<li><a href="#" rel="movielanguage" class="selected">Movie Language Info</a></li>
+<li><a href="#" rel="songmain" class="selected">Songs</a></li>
+<li><a href="#" rel="dvdmain" class="selected">DVD</a></li>
+<li><a href="#" rel="cdmain" class="selected">CD</a></li>
+</ul>
+
+<div style=" border:1px solid gray; width:800px; height:250px; margin-bottom: 1em; padding: 1px">
+
+<div id="moviemain" class="tabcontent"> 
+<form action="admin_add_movie.php" enctype="multipart/form-data" method="post" name="addmovie">
+<?php if ($_SESSION["movieid"]) { ?>
+	<input type="hidden" value="1" name="editmovieinfo" />
+<?php } else { ?>
+	<input type="hidden" value="1" name="addmovieinfo" />
+<?php } ?>
+<table width="100%" border="0">
+	<tr>
+		<td align="right"><strong>Name:</strong></td>
+		<td colspan="3"><input type="text" name="name" size="65" value="<?php echo $movie["name"]; ?>" /></td>
+		<td align="right"><strong>Release Date:</strong></td>
+		<td><input id="release_date" name="release_date" class="text" type="text" size="10" value="<?php echo $movie["release_date"]; ?>"/>&nbsp;<img src="../images/cal.gif" width="18" align="absmiddle" id="f_trigger_date" style="cursor: pointer; " title="Date selector" onMouseOver="this.style.background='red';" 
+onMouseOut="this.style.background=''"; /><br /></td>
+	</tr>
+	<tr>
+		<td align="right"><strong>Dubbed From:</strong></td>
+		<td colspan="3"><input type="text" name="dubbed_from_movie" size="65" value="<?php echo $movie["dubbed_from_movie"]; ?>"/></td>
+		<td align="right"><strong>Format:</strong></td>
+		<td>
+		<select name="format_id">
+			<option value="0">Select One...</option>
+			<?php do{  ?>
+				<option value="<?php echo $format["id"]; ?>" <?php if ($movie["format_id"] == $format["id"]) {?>selected<?php } ?>><?php echo $format["description"]; ?></option>
+			<?php } while ($format = mysqli_fetch_assoc($formats)); ?>
+		</select>
+		</td>
+	</tr>
+	<tr>
+		<td align="right"><strong>Rating:</strong></td>
+		<td>
+		<select name="rating_id">
+			<option value="0">Select One...</option>
+			<?php do {  ?>
+				<option value="<?php echo $rating["id"]; ?>" <?php if ($movie["rating_id"] == $rating["id"]) {?>selected<?php } ?>><?php echo $rating["description"]; ?></option>
+			<?php } while ($rating = mysqli_fetch_assoc($ratings));?>
+		</select>
+		</td>
+		<td align="right"><strong>Language:</strong></td>
+		<td>
+		<select name="lang_id">
+			<option value="0">Select One...</option>
+			<?php for ($x=0; $x < $countlang; $x++) {  ?>
+				<option value="<?php echo $langid[$x]; ?>" <?php if ($movie["lang_id"] == $langid[$x]) {?>selected<?php } ?>><?php echo $langdesc[$x]; ?></option>
+			<?php } ?>
+		</select>
+		</td>
+		<td align="right"><strong>Original Language:</strong></td>
+		<td>
+		<select name="original_lang_id">
+			<option value="0">Select One...</option>
+			<?php for ($x=0; $x < $countlang; $x++) {  ?>
+				<option value="<?php echo $langid[$x]; ?>" <?php if ($movie["original_lang_id"] == $langid[$x]) {?>selected<?php } ?>><?php echo $langdesc[$x]; ?></option>
+			<?php } ?>
+		</select>
+		</td>
+	</tr>
+	
+	<tr>
+		<td align="right"><strong>Parent Category:</strong></td>
+		<td>
+		<select name="parent_category_id">
+			<option value="0">Select One...</option>
+			<?php for ($x=0; $x<$countcat; $x++) {  ?>
+				<option value="<?php echo $catid[$x]; ?>" <?php if ($movie["parent_category_id"] == $catid[$x]) {?>selected<?php } ?>><?php echo $catdesc[$x]; ?></option>
+			<?php } ?>
+		</select>
+		</td>
+		<td align="right"><strong>Child Category:</strong></td>
+		<td>
+		<select name="child_category_id">
+			<option value="0">Select One...</option>
+			<?php for ($x=0; $x<$countcat; $x++) {  ?>
+				<option value="<?php echo $catid[$x]; ?>" <?php if ($movie["child_category_id"] == $catid[$x]) {?>selected<?php } ?>><?php echo $catdesc[$x]; ?></option>
+			<?php } ?>
+		</select>
+		</td>
+		<td align="right"><strong>Third Category:</strong></td>
+		<td>
+		<select name="third_category_id">
+			<option value="0">Select One...</option>
+			<?php for ($x=0; $x<$countcat; $x++) {  ?>
+				<option value="<?php echo $catid[$x]; ?>" <?php if ($movie["third_category_id"] == $catid[$x]) {?>selected<?php } ?>><?php echo $catdesc[$x]; ?></option>
+			<?php } ?>
+		</select>
+		</td>
+		
+	</tr>
+	<tr>
+		<td align="right"><strong>Production Cost:</strong></td>
+		<td>
+		<select name="production_cost_id">
+			<option value="0">Select One...</option>
+			<?php do {  ?>
+				<option value="<?php echo $pcost["id"]; ?>" <?php if ($movie["production_cost_id"] == $pcost["id"]) {?>selected<?php } ?>><?php echo $pcost["cost"]; ?></option>
+			<?php } while ($pcost = mysqli_fetch_assoc($pcosts));?>
+		</select>
+		</td>
+		<td align="right"><strong>Aspect Ratio:</strong></td>
+		<td>
+		<select name="aspect_ratio_id">
+			<option value="0">Select One...</option>
+			<?php do {  ?>
+				<option value="<?php echo $aratio["id"]; ?>" <?php if ($movie["aspect_ratio_id"] == $aratio["id"]) {?>selected<?php } ?>><?php echo $aratio["description"]; ?></option>
+			<?php } while ($aratio = mysqli_fetch_assoc($aratios));?>
+		</select>
+		</td>
+		<td align="right"><strong>Movie Company:</strong></td>
+		<td>
+		<select name="movie_company_id">
+			<option value="0">Select One...</option>
+			<?php do {  ?>
+				<option value="<?php echo $mcompany["id"]; ?>" <?php if ($movie["movie_company_id"] == $mcompany["id"]) {?>selected<?php } ?>><?php echo $mcompany["name"]; ?></option>
+			<?php } while ($mcompany = mysqli_fetch_assoc($mcompanys));?>
+		</select></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top">&nbsp;</td>
+		<td colspan="5"><?php if ($_SESSION["movieid"]) { ?><input type="submit" value="Update Movie" /><input type="button" value="New Movie" onClick="javascript:location.href='admin_add_movie.php?new=1'" /><?php } else { ?><input type="submit" value="Add Movie" /><?php } ?></td>
+	</tr>
+</table>
+</form>
+</div>
+
+<div id="cdmain" class="tabcontent"> 
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/cd_info.php"); ?>
+<?php } else { ?>
+<h3>Song Language - Add or Choose Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="dvdmain" class="tabcontent"> 
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/dvd_info.php"); ?>
+<?php } else { ?>
+<h3>Song Language - Add or Choose Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="movielanguage" class="tabcontent"> 
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/language_info.php"); ?>
+<?php } else { ?>
+<h3>Song Language - Add or Choose Movie First</h3>
+<?php } ?>
+</div>
+ 
+<div id="songmain" class="tabcontent"> 
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("admin_add_song.php"); ?>
+<?php } else { ?>
+	<h3>Songs - Add Movie First</h3>
+<?php } ?>
+</div>
+
+</div>
+
+<ul id="castinfotabs" class="shadetabs">
+<li><a href="#" rel="cast1">Cast</a></li>
+<li><a href="#" rel="cast2">Cast Highlights</a></li>
+<li><a href="#" rel="cast3">Cast Punch Dialogs</a></li>
+<li><a href="#" rel="cast4">Cast Rating</a></li>
+</ul>
+
+<div style="border:1px solid gray; width:795px; height: 160px; margin-bottom: 1em; padding: 10px">
+<div id="cast1" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/cast.php"); ?>
+<?php } else { ?>
+	<h3>Cast - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="cast2" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/cast_highlight.php"); ?>
+<?php } else { ?>
+	<h3>Cast Highlights - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="cast3" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/cast_punch_dialog.php"); ?>
+<?php } else { ?>
+	<h3>Cast Punch Dialogs - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="cast4" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/cast_rating.php"); ?>
+<?php } else { ?>
+	<h3>Cast Rating - Add Movie First</h3>
+<?php } ?>
+</div>
+</div>
+
+
+<ul id="movieinfotabs" class="shadetabs">
+<li><a href="#" rel="customer1" class="selected">Awards</a></li>
+<li><a href="#" rel="customer2">Location</a></li>
+<li><a href="#" rel="customer3">Detail Review</a></li>
+<li><a href="#" rel="customer4">Digital Content</a></li>
+<li><a href="#" rel="customer5">Punch Dialog</a></li>
+<li><a href="#" rel="customer6">Studio</a></li>
+<li><a href="#" rel="customer7">Studio Rating</a></li>
+<li><a href="#" rel="customer8">Text/URL Content</a></li>
+</ul>
+
+<div style="border:1px solid gray; width:800px; height:160px; margin-bottom: 1em; padding: 10px">
+
+<div id="customer1" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+<?php include("movies/award.php"); ?>
+<?php } else { ?>
+<h3>Awards - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="customer2" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/location.php"); ?>
+<?php } else { ?>
+	<h3>Location - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="customer3" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/detail_review.php"); ?>
+<?php } else { ?>
+	<h3>Detail Review - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="customer4" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/digital_content.php"); ?>
+<?php } else { ?>
+	<h3>Digital Content - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="customer5" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/punch_dialog.php"); ?>
+<?php } else { ?>
+	<h3>Punch Dialog - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="customer6" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/studio.php"); ?>
+<?php } else { ?>
+	<h3>Studio - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="customer7" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/studio_rating.php"); ?>
+<?php } else { ?>
+	<h3>Studio Rating - Add Movie First</h3>
+<?php } ?>
+</div>
+
+<div id="customer8" class="tabcontent">
+<?php if ($_SESSION["movieid"]) { ?>
+	<?php include("movies/text_content.php"); ?>
+<?php } else { ?>
+	<h3>Text/URL Content</h3>
+<?php } ?>
+</div>
+
+</div>
+
+<script type="text/javascript">
+
+var countries=new ddtabcontent("castinfotabs")
+countries.setpersist(true)
+countries.setselectedClassTarget("link") //"link" or "linkparent"
+countries.init()
+
+</script>
+
+<script type="text/javascript">
+
+var countries=new ddtabcontent("movieinfotabs")
+countries.setpersist(true)
+countries.setselectedClassTarget("link") //"link" or "linkparent"
+countries.init()
+
+</script>
+
+
+</body>
+</html>
+<script type="text/javascript">
+
+var customers=new ddtabcontent("movietabs")
+customers.setpersist(true)
+customers.setselectedClassTarget("link") //"link" or "linkparent"
+customers.init()
+
+</script>
+<script type="text/javascript">
+	Calendar.setup({
+	inputField     :    "release_date",     // id of the input field
+	ifFormat       :    "%m/%d/%Y",      // format of the input field
+	button         :    "f_trigger_date",  // trigger for the calendar (button ID)
+	align          :    "Bl",           // alignment (defaults to "Bl")
+	singleClick    :    true
+	});
+</script>

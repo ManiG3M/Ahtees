@@ -1,0 +1,15 @@
+ALTER TABLE ahtees.customer_master ADD INDEX IDX_customer_names (first_name, last_name, start_name);
+ALTER TABLE ahtees.customer_attributes ADD INDEX IDX_customer_attribute_id (attribute_id);
+ALTER TABLE ahtees.customer_award ADD INDEX IDX_customer_award_3 (award_id );
+ALTER TABLE ahtees.customer_award ADD INDEX IDX_customer_award_4 (movie_id );
+ALTER TABLE ahtees.customer_digital_content ADD INDEX IDX_customer_digital_content_1 (customer_id );
+ALTER TABLE ahtees.customer_favorites ADD INDEX IDX_customer_favorites_1 (customer_id );
+ALTER TABLE ahtees.customer_favorites ADD INDEX IDX_customer_favorites_2 (customer_id , favorite_id);
+ALTER TABLE ahtees.customer_favorites ADD INDEX IDX_customer_favorites_3 (favorite_id );
+ALTER TABLE ahtees.customer_text_content ADD INDEX IDX_customer_text_content_2 (customer_id);
+ALTER TABLE ahtees.customer_text_content ADD INDEX IDX_customer_text_content_3 (customer_id, system_lang_code_id, content_type_id);
+ALTER TABLE ahtees.customer_relations ADD INDEX IDX_customer_relations_1 (customer_id);
+ALTER TABLE ahtees.customer_relations ADD INDEX IDX_customer_relations_2 (customer_id, relation_id);
+ALTER TABLE ahtees.customer_talent ADD INDEX IDX_customer_talent_1 (customer_id);
+ALTER TABLE ahtees.customer_talent ADD INDEX IDX_customer_talent_2 (customer_id, talent_id);
+ALTER TABLE ahtees.customer_sports_interest ADD INDEX IDX_customer_sports_interest_3 (customer_id);

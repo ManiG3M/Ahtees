@@ -1,0 +1,6 @@
+CREATE TRIGGER mm_entered_date BEFORE INSERT ON Movie_Master
+FOR EACH ROW
+BEGIN
+set NEW.ENTERED_DATE = NOW()
+END;
+

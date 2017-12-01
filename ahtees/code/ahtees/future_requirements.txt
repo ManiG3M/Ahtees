@@ -1,0 +1,68 @@
+1) Need to add music released date to movie master
+2) Need to add cover art for general purposes
+5) DVD released countries so far
+14) Enable customers to send and receive information from mobile -- ask a question and get an answer?
+15) Need to develop reports to watch the progress
+16) Need to hire English writer/reader to make sure that the information entered is high quality
+17) Need to make sure that our content does not get duplicated
+18) Need to register the company in the US
+19) Need to make sure to get all legal and copy right documentation done soon
+20) Need to get a list of prospect companies that we think would need the content
+21) Really need to get started with Hindi movies, without hindi movies, the market may be too small
+22) Need to figure out how to enter information in Tamil and Hindi
+23) Need to inform Maha about sourcing content from the web and make sure that you are not copying files with watermark in it. 
+24) Need to close the deal with behindwoods.com
+25) Need to search the web for other companies which might be doign what behindwoods.com is doing
+26) Need to see if anyone can provide the content that behindwoods provides 
+27) Need to get a copy of the DVD ripper software to rip dvds/vcds/etc..
+28) Need to make sure that all tables have the entered_date column filled
+29) Create movie destination pages
+30) Create links between movies based on some algorithm - that you can sell to other companies 
+31) have customers provide information about movies customers view on our customers website and link them somehow to return data
+32) Provide data thru mobile
+33) Television programs content and provide information
+34) Consolidate all information about movies in one place -- create movie destination pages
+35) Need a data entry tool to enter news information tied against a movie
+36) Collect information from places that sell these movies and provide an ad engine to merchants to sell movies from other merchants. Have merchants bids for ads that we serve to other merchants
+37) Get information from other websites that are selling indian movies, and provide links on your website to earn associate commissions
+38) ability collect information about URLS where the movie information is there
+39) Need to be able to put your logo on the images and other content you collect from web
+40) Need to be able to add keywords to everything
+41) Need to be able to add metatags to everything
+42) Need to be able to create a wikipedia like page for each movie which is heavily search engine optimized. It should be published as an when the movie information is update. 
+43) URL links stored for some movie or actor should be automatically verfied before publishing the content
+44) Need to be able to add URL to all type of content, like movies, actors, locations, awards, etc.., 
+45) Should be able to bring images from other places where the URL is pointing too. 
+46) Content aggregation is the biggest deal
+47) Need to be able to put links for YouTube digital media, should automatically bring them in. Someone needs to search and plug the correct ones. 
+48) People should be able to send links to others or frends
+49) People need to be able to register and sign up for updates, like latest news, movie releases, trailers, etc..,
+50) Peolpe should be able to flag a movie that a friend likes so much and tell the friend about the movie. 
+51) Ring Tones should be created
+52) Talk to Maha about designers and digital content creators. May be he can do this.
+53) English speaking person needs to be hired soon. 
+54) Hindi and Tamil movies must be done first. 
+55) Bollywood.net has a lot of information
+56) Can we automate collectin ginformation abotu movies from the web and put only highly qualified links into our website?
+57) Should we set a standard for people to create their pages so that we will link them to our site, and get paid for clicks and transactions?
+58) Need to sign up as associates or affiliates for important websites. 
+56) Need to be able to rotate the sellers in our websiste so that we can make money
+57) Must allow the community to upload content from the git-go. no execuses. Also need to be able to sell content to companies. 
+58) Story information
+59) Story line
+60) Story highlights
+61) Songs lyrics writer is missing
+62) Guest actor info
+63) Building playlist
+64) Ability to send your playlist to your friends
+65) Create detail pages about each attribute of the movie.
+66) Cross limk them with other things
+67) Each page needs to be designed properly
+68) Understand Google search algorithm
+69) Ability for consumers to upload data for each detail page
+70) Patent this idea
+71) Ability to load story or biography about actors and everything
+72) Understand the traffic pattern for Indian movie related terms
+73) We rotate thru ads, if you want to put your add, click here. We only charge per click and per transaction.
+74) Detail page review numbers should be published
+75) To be able load information about books that refer to actors and movies

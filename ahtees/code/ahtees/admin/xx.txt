@@ -1,0 +1,5 @@
+
+				<tr>
+					<td align="right"><strong>Run Time: </strong></td>
+					<td><input type="text" size="10" name="run_time" value="<?php echo $song["run_time"]; ?>" /></td>
+				</tr>

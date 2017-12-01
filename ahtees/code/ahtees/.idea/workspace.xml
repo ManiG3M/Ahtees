@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="827369a9-5477-4d2e-af83-7fcc6b8cc702" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/10_5_jai_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/17_5_kamal4_1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/20_5_rajinikanth_0100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/23_5_2006062901710201.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/24_5_16_1206441829.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/25_5_jothika.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/26_5_veruthe-oru-bharya-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/27_14_27_5_Devayani.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/27_17_26_5_veruthe-oru-bharya-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/27_5_Devayani.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/28_5_satyaraj-wallpaper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/29_5_Vaali.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/31_5_Thotta_Tharani.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/32_5_iraja.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/33_10_29_5_Vaali.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/33_14_29_5_Vaali.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/33_17_33_5_KJJ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/33_5_KJJ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/3_10_8_5_arjun1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/3_17_32_5_iraja.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/3_5_ghost2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/4_5_ghost2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/51_17_Gautam.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/52_17_arshitha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/5_14_9_5_r-madhavan-8245-maddy_photo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/5_17_17_5_kamal4_1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/7_17_10_5_jai_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/7_5_Humpback Whale.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/7_5_suriya_ayan1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/8_5_arjun1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/9_5_r-madhavan-8245-maddy_photo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/content/_5_ghost2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/13_14_33_5_KJJ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/15_14_23_5_2006062901710201.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/15_5_suriya_ayan2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/1_14_27_5_Devayani.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/1_5_indentbg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/1_6_shadeactive.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/20_5_rajini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/23_14_indrajith.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/23_5_Indra 2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/4_14_20_5_rajini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/4_5_15_5_suriya_ayan2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/7_13_Winter Leaves.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/content/7_5_Photo 3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/101_angry 03.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/102_angry 02.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/103_angry 04.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/104_angry 05.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/106_109231022_df74c0465f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/118_101_angry 03.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/164_THEME OF INDRAJITH.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/97_angry 01.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/_101_angry 03.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/_102_angry 02.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/_103_angry 04.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/doc/html/field-button.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/doc/reference.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/menuarrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/menuarrow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/active-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/dark-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/hover-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/menuarrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/normal-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/rowhover-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/status-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/title-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/today-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/g_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/header_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/indicator.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/next.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/prev.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/w_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Bollywood3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bollywood.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bollywood.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bollywood2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mainbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shilpa-shetty-miss-bollywood-musical1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/cute_icons_for_site/adodb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/cute_icons_for_site/adodb2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/doc/CREDITS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/attachment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/calendar-img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/dollars.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/excel2icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/excelicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/chm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/cpp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/css.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/csv.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/eml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/generic.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/gif.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/html.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/jpg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/mhtml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/mid.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/mov.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/one.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/pcx.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/pdf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/png.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/pot.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/pps.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/ppt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/pub.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/reg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/text.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/unknown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/vsd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/vsl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/vst.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/wav.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/wbk.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/wri.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/xls.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/xlt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/xml.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/fileicons/zip.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/gificon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/gravatar_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/htmlicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/ie.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/ieicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/jpgicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/mailicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/mantis_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/mantis_logo_button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/mantis_space.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/no_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/notice.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/ok.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/pdf2icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/pdficon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/pngicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/ppticon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/priority_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/priority_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/priority_3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/priority_low_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/priority_low_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/priority_low_3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/protected.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/rel_dependant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/rel_duplicate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/rel_related.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/rss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/synthese.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/synthgraph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/texticon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/unknownicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/unread.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/update.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/word2icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/wordicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/images/zipicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/.xxx.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/reportgen/phpreportgenerator-2004-08-04.tar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/System5.mdw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/green1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/green2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/indentbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/indentbg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/shade.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/shadeactive.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_customer.php.BACKUP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_dvd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_lots_songs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_movie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_movie.php.BACKUP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_qa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_song.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_song.php.new" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_song_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_studio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_add_user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_edit_song.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_edit_studio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_edit_user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_view_customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_view_customer_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_view_movie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_view_movie.php.backup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_view_movie_special.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_view_studio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/admin_view_user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/attributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/attributes_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/award.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/awards_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/degree.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/degree_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/digital_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/favorite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/favorite_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/language_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/relation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/relation_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/special_interest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/special_interest_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/sports_interest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/sports_interest_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/talents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/talents_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/text_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/customer/text_content_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/digital_content_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/aspect_ratio_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/aspect_ratio_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/attributes_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/attributes_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/award_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/award_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/category_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/category_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/content_type_file_extensions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/content_type_file_extensions_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/content_type_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/content_type_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/country_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/country_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/customer_status_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/customer_status_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/education_degree_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/education_degree_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/favorite_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/favorite_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/format_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/format_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/language_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/language_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/location_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/location_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/location_type_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/location_type_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/movie_company_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/movie_company_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/movie_role_type_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/movie_role_type_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/movie_status_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/movie_status_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/production_cost_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/production_cost_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/raaga_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/raaga_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/rating_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/rating_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/relation_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/relation_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/song_type_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/song_type_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/sports_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/sports_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/state_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/state_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/system_lang_code_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/system_lang_code_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/talent_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/talent_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/text_type_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/text_type_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/theme_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/theme_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/total_worth_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/total_worth_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/masters/xx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movie_digital_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/award.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/award_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast_highlight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast_highlight_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast_punch_dialog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast_punch_dialog_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast_rating.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/cast_rating_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/company_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/detail_review.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/detail_review_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/digital_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/dvd_info.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/language_info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/language_info_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/location_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/punch_dialog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/punch_dialog_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/studio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/studio_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/studio_rating.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/text_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/text_content_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/movies/xx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/boxes_digital_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/boxes_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/boxes_options_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/boxes_text_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/copy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/tabs_columns.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/tabs_master.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/pagemgmt/tabs_master_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/put" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/qa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/134_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/136_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/137_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/142_index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/content/_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/song_lyrics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex1_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex2_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex3_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex4_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/songs/songex5_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/x.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/xx.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/xx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/OScalendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/bugtest-hidden-selects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-blue2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-brown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-setup_stripped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-system.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-tas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-win2k-1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-win2k-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-win2k-cold-1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar-win2k-cold-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar_stripped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/dayinfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/doc/html/reference-Z-S.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/doc/html/reference.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/doc/html/reference.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-al.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-big5-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-big5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-cs-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-cs-win.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-du.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-he-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-hr-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-ko-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-lt-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-pl-utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-ru_win_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-sp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/calendar-zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/lang/cn_utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/skins/aqua/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/connections/DB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/connections/tablefuncs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/AJS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/AJS_fx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/UndertoneNetworks.com-Advertisement.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/gb_scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/gb_styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greybox/loader_frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/cms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/states.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/time.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/time2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/.cvsignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prefs_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prefs_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prefs_reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prefs_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prof_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prof_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prof_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prof_make_default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prof_menu_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_prof_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_sponsor_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_sponsor_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/account_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/adm_config_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/adm_config_report.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/adm_config_set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/adm_permissions_report.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/copy_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/css/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/css/css_download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/css/css_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/css/css_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/css/view_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/db_stats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/db_table_names_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/move_db2disk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/schema.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/system_utils.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/test_icons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/test_langs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrade_advanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrade_escaping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrade_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrade_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrade_unattended.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrade_warning.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_13_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_14_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_15_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_16_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_17_escaping_fixes_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_17_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_18_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/0_19_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/admin/upgrades/1_00_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mantisconnect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_account_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_compat_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_config_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_config_defaults_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_custom_field_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_enum_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_file_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_filter_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_issue_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_issue_attachment_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_project_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/mc_project_attachment_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/changelog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.nusoap_base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.soap_fault.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.soap_parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.soap_server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.soap_transport_http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.soap_val.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.soapclient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.wsdl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.wsdlcache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/class.xmlschema.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/nusoap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/api/soap/nusoap/nusoapmime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/billing_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/billing_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_actiongroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_actiongroup_add_note_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_actiongroup_attach_tags_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_actiongroup_ext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_actiongroup_ext_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_actiongroup_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_assign.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_assign_reporter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_change_status_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_file_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_file_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_file_upload_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_graph_bycategory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_graph_bystatus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_graph_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_monitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_monitor_list_view_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_relationship_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_relationship_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_relationship_graph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_relationship_graph_img.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_reminder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_reminder_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_report.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_report_advanced_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_report_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_set_sponsorship.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_sponsorship_list_view_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_update_advanced_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_update_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_view_advanced_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_view_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bug_view_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_add_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_set_view_state.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_stats_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/bugnote_view_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/changelog_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/config_defaults_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/config_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/config_inc.php.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/.cvsignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/access_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-active-record.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-csvlib.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-datadict.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-error.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-errorhandler.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-errorpear.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-exceptions.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-iterator.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-lib.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-memcache.lib.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-pager.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-pear.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-perf.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-php4.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-time.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-xmlschema.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb-xmlschema03.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/adodb.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/contrib/toxmlrpc.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-access.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-db2.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-firebird.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-generic.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-ibase.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-informix.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-mssql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-mysql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-oci8.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-postgres.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-sapdb.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/datadict/datadict-sybase.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/docs-active-record.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/docs-adodb.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/docs-datadict.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/docs-oracle.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/docs-perf.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/docs-session.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/docs-session.old.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/old-changelog.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/readme.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/tips_portable_sql.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/docs/tute.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-access.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-ado.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-ado5.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-ado_access.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-ado_mssql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-borland_ibase.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-csv.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-db2.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-fbsql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-firebird.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-ibase.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-informix.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-informix72.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-ldap.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-mssql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-mssql_n.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-mssqlpo.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-mysql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-mysqli.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-mysqlt.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-netezza.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-oci8.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-oci805.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-oci8po.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-odbc.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-odbc_db2.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-odbc_mssql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-odbc_oracle.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-odbtp.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-odbtp_unicode.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-oracle.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-pdo.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-pdo_mssql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-pdo_mysql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-pdo_oci.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-pdo_pgsql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-postgres.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-postgres64.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-postgres7.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-postgres8.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-proxy.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-sapdb.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-sqlanywhere.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-sqlite.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-sqlite.inc.php.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-sqlitepo.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-sybase.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-sybase_ase.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/drivers/adodb-vfp.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-ar.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-bg.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-bgutf8.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-ca.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-cn.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-cz.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-da.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-de.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-en.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-es.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-esperanto.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-fr.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-hu.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-it.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-nl.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-pl.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-pt-br.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-ro.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-ru1251.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-sv.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb-uk1251.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/lang/adodb_th.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/pear/Auth/Container/ADOdb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/pear/readme.Auth.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/perf/perf-db2.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/perf/perf-informix.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/perf/perf-mssql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/perf/perf-mysql.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/perf/perf-oci8.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/perf/perf-postgres.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/pivottable.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/rsfilter.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-compress-bzip2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-compress-gzip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-cryptsession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-cryptsession2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-encrypt-mcrypt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-encrypt-md5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-encrypt-secret.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-encrypt-sha1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-sess.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-session-clob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-session-clob2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-session2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-sessions.mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-sessions.oracle.clob.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/adodb-sessions.oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/crypt.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/old/adodb-cryptsession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/old/adodb-session-clob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/old/adodb-session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/old/crypt.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/session_schema.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/session/session_schema2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/toexport.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/tohtml.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xmlschema.dtd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xmlschema03.dtd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xsl/convert-0.1-0.2.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xsl/convert-0.1-0.3.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xsl/convert-0.2-0.1.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xsl/convert-0.2-0.3.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xsl/remove-0.2.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/adodb/xsl/remove-0.3.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/ajax_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/authentication_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/bug_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/bug_group_action_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/bugnote_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/category_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/checkin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/class.RSSBuilder.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/class.period.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/class.urlmatch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/collapse_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/columns_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/compress_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/config_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/constant_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/csv_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/current_user_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/custom_field_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/custom_function_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/database_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/date_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/disposable/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/disposable/disposable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/disposable/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/disposable/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/email_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/email_queue_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/error_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/file_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/filter_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/gpc_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/graph_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/graphviz_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/helper_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/history_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/html_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/icon_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/lang_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/last_visited_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/ldap_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/logging_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/my_view_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/news_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/obsolete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/php_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/ChangeLog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-br.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-ca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-cz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-dk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-fi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-fo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-hu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-it.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-ja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-nl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-pl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-ro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-se.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/phpmailer/language/phpmailer.lang-tr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/prepare_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/print_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/profile_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/projax/classes/JavaScript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/projax/classes/Prototype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/projax/classes/Scriptaculous.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/projax/projax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/projax_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/project_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/project_hierarchy_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/relationship_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/relationship_graph_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/rss_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/send_emails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/sponsorship_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/string_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/summary_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/tag_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/timer_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/tokens_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/twitter_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/user_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/user_pref_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/utility_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/version_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/wiki_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/wiki_dokuwiki_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/wiki_mediawiki_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/wiki_xwiki_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/core/xmlhttprequest_api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/csv_export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/doc/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/doc/CUSTOMIZATION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/doc/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/doc/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/doc/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/doc/UPGRADING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/file_download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_assigned_to_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_by_category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_by_cumulative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_by_daily_delta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_by_release_delta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_by_severity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_by_severity_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/graphs/graph_reported_by_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/history_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/issues_rss.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/addLoadEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/dynamic_filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/jscalendar/calendar-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/jscalendar/calendar-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/jscalendar/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/jscalendar/lang/calendar-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/MIT-LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/dragdrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/prototype_b.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/scriptaculous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/projax/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/time_tracking_stopwatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/javascript/xmlhttprequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/jump_to_bug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/langreadme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_bulgarian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_bulgarian_1251.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_catalan.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_catalan_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_chinese_simplified.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_chinese_simplified_gb2312.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_chinese_simplified_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_chinese_traditional.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_chinese_traditional_big5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_chinese_traditional_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_croatian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_croatian_8859-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_czech.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_czech_8859-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_czech_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_danish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_danish_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_dutch.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_dutch_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_english.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_estonian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_estonian_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_finnish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_finnish_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_french.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_french_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_french_canadian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_french_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_german.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_german_8859-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_german_eintrag.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_greek.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_hebrew.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_hungarian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_hungarian_8859-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_icelandic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_icelandic_8859-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_italian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_italian_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_japanese.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_japanese_euc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_japanese_sjis.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_japanese_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_korean.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_korean_euc-kr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_korean_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_latvian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_latvian_1257.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_lithuanian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_lithuanian_1257.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_norwegian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_norwegian_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_polish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_polish_8859-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_polish_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_portuguese_brazil.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_portuguese_brazil_8859-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_portuguese_standard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_portuguese_standard_8859-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_romanian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_russian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_russian_1251.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_russian_koi8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_russian_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_serbian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_serbian_8859-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_slovak.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_slovak_8859-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_slovene.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_slovene_8859-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_slovene_utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_spanish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_spanish_8859-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_swedish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_swedish_8859-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_turkish.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_turkish_8859-9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_ukrainian.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_ukrainian_1251.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lang/strings_urdu.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/login_anon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/login_cookie_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/login_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/login_select_proj_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/logout_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lost_pwd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/lost_pwd_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/main_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/make_captcha_img.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_config_email_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_config_email_set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_config_revert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_config_work_threshold_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_config_work_threshold_set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_config_workflow_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_config_workflow_set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_custom_field_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_custom_field_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_custom_field_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_custom_field_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_custom_field_proj_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_custom_field_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_prof_menu_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_cat_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_cat_copy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_cat_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_cat_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_cat_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_create_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_custom_field_add_existing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_custom_field_copy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_custom_field_remove.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_custom_field_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_subproj_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_subproj_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_user_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_user_copy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_user_remove.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_ver_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_ver_copy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_ver_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_ver_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_proj_ver_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_create_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_proj_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_proj_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_prune.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/manage_user_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/mantis_offline.php.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/meta_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/my_view_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_list_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_menu_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_rss.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/news_view_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/packages/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/packages/mantis-httpd.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/packages/mantis.spec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/permalink_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_all_bug_options_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_all_bug_options_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_all_bug_options_reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_all_bug_options_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_all_bug_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_all_bug_page_excel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_all_bug_page_word.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_bug_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/print_bugnote_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/proj_doc_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/proj_doc_add_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/proj_doc_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/proj_doc_edit_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/proj_doc_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/proj_doc_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/project_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/query_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/query_delete_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/query_store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/query_store_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/query_view_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/return_dynamic_filters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/roadmap_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/set_project.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/signup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/signup_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bycategory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bycategory_pct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bydeveloper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bypriority.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bypriority_mix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bypriority_pct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_byreporter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_byresolution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_byresolution_mix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_byresolution_pct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_byseverity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_byseverity_mix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_byseverity_pct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bystatus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_bystatus_pct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_cumulative_bydate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_imp_category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_imp_priority.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_imp_resolution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_imp_severity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_graph_imp_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_jpgraph_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/summary_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/tag_attach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/tag_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/tag_detach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/tag_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/tag_update_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/tag_view_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/verify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/view_all_bug_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/view_all_inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/view_all_set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/view_filters_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/wiki.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantis/xmlhttprequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/daily_reports.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/movie_report.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/reportgen/phpReportGen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/reportgen/usage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/usage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reports/xxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/tabcontent.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabs/tabcontent.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="77" />
+    <option name="y" value="44" />
+    <option name="width" value="1279" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ahtees" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahtees" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ahtees" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ahtees" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827369a9-5477-4d2e-af83-7fcc6b8cc702" name="Default" comment="" />
+      <created>1512102093657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512102093657</updated>
+      <workItem from="1512102096184" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="77" y="44" width="1279" height="704" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24941361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

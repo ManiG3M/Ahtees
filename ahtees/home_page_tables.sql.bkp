@@ -1,0 +1,212 @@
+CREATE TABLE tabs_master
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	name varchar(30) not null,
+	status integer (1) NOT NULL,
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+CREATE TABLE home_page_status_master
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	description varchar(30) not null,
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+CREATE TABLE tab_columns
+(
+	id integer (1) NOT NULL AUTO_INCREMENT , 
+	tab_id	integer(2) not null,
+	name varchar(30) not null,
+	height integer(4) not null,
+	width integer(4) not null,
+	bgcolor varchar(50) not null,
+	font 	varchar(50) not null,
+	font_size integer(2) not null,
+	border_flag integer(1) not null,
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+CREATE TABLE box_type_master
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	name varchar(30) not null,
+	status integer (1) NOT NULL,
+	min_options integer(1) not null,
+	max_options integer(1) not null,
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+There are few types of boxes
+- Adobe flash type of box -- which shown in Yahoo movies
+- Left nav bar box
+- General box with just text inside
+- Box with two or three boxes inside 
+- Box with a small web form inside in it 
+- box with a image and text -- image shown on the left side and the text shown on the right side. 
+- news box 
+- profile box -- where we will display a customers or some actors image and advertise them. This will have an image and text at the bottome with a link.
+- Box withbig image that is occupies the box and a big text on top of it. 
+- Box with Video
+- Box with MP3/Audio playing 
+- Box with picture and links below
+- Box with multiple photos
+- Box with no title 
+- Box with just a picture and no text what soever.
+- Box with text at the top and bottom, with the picture in between
+- Box with link at the top and bottom
+- Box with blinking text and title  
+- Box with rolling titlte
+- Just rolling text box 
+
+CREATE TABLE boxes_master
+(
+	id integer (4) NOT NULL AUTO_INCREMENT , 
+	tab_id integer (2) not null,
+	column_id integer (1) not null,
+	box_type_id  integer(2) not null,
+	name varchar(30) not null,
+	no_title integer (1) not null,
+	rolling_title integer(1) not null,
+	blinking_title integer(1) not null,
+	title_text varchar(50) not null, 
+	title_font varchar(50) not null,
+	title_font_size integer(4) not null,
+	title_image varchar(500), 
+	border_flag integer(1), 
+	rounded_corners integer(1),
+	status integer (1) NOT NULL,
+	no_of_options integer (2) default 1,
+	box_order integer(2) not null,
+	box_start_date datetime not null,
+	box_end_date datetime not null,
+	box_height integer(4) not null,
+	box_width integer(4) not null, 
+	box_border_color varchar(255),
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+CREATE TABLE box_text_content_config
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	box_type_id		integer(2) not null,
+	text_content_type_id	integer(2) not null,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+CREATE TABLE box_digital_content_config
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	box_type_id		integer(2) not null,
+	digital_content_type_id	integer(2) not null,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+CREATE TABLE box_content_type_master
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	name varchar(30) not null,
+	status integer (1) NOT NULL,
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+- Just normal text
+- High Light Text
+- Top Text
+- Bottom Text
+- Actual Content
+- More information text 
+
+and all the links for it
+
+CREATE TABLE boxes_text_content_type_master
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	name varchar(30) not null,
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+CREATE TABLE boxes_text_content
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	tab_id 		integer(4) not null,
+	column_id 	integer(4) not null,
+	box_id 		integer(4) not null,
+	text_type_id 	integer(2) not null, 
+	actual_text 	varchar(3000) not null,
+	url 		varchar(1000),
+	company_id 	integer(2),
+	status 		integer(1) not null,
+	height 		integer(4),
+	width 		integer(4),
+	start_date 	datetime not null,
+	expiry_date 	datetime not null,
+	entered_date 	datetime, 
+	entered_by 	varchar (64), 
+	updated_by 	varchar (64), 
+	updated_date 	datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+
+CREATE TABLE general_ads_master
+(
+	id integer (2) NOT NULL AUTO_INCREMENT , 
+	key_type integer(2) not null, 
+	key_id integer(11) not null, 
+	URL_link varchar(2000) not null,
+	start_date datetime not null,
+	no_of_impressions integer(6) not null,
+	no_of_clicks integer(6) not null,
+	expiry_date datetime not null,
+	entered_date datetime, 
+	entered_by varchar (64), 
+	updated_by varchar (64), 
+	updated_date datetime,
+	PRIMARY KEY (id)
+) TYPE=InnoDB CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+Ad Types:
+
+1) Home Pages ads 
+2) Specific Movie Page Ads
+3) Specific Actor Page Ads
+4) Specific Song Page Ads 
+5) Page views based ads
+  
+All the ads will have start and end date. They all start at mightnight of the start date and brought down at midnight of the end date. The pricing is based on impressions, and click thru ratio. 
+timeslots available , the customer can choose to display a specific ad at a specific time of the day in a different timezone
+Geographic locations should be available -- for example, custoemrs coming from India may see a different ad and customers coming from USA may see a different ad
+Charges may differ by each country 
+Ad should be approved by our internal people before they go live 
+we should track clicks and impressions for reporting purposes
+There should be a automated reporting and billing system to report to customers about ads
+

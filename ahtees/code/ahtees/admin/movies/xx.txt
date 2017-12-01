@@ -1,0 +1,43 @@
+SELECT movie_cast_highlights.*, customer_master.first_name, customer_master.last_name, system_lang_code_master.name as langname , movie_role_type_master.description as role_name
+FROM movie_cast_highlights , customer_master, system_lang_code_master , movie_cast, movie_role_type_master
+WHERE movie_cast_highlights.movie_id = 1243 AND 
+customer_master.customer_id = movie_cast_highlights.customer_id AND 
+system_lang_code_master.id = movie_cast_highlights.system_lang_code_id AND
+movie_cast.movie_id = movie_cast_highlights.movie_id AND 
+movie_cast.customer_id = movie_cast_highlights.customer_id AND 
+movie_role_type_master.id = movie_cast.role_type_id
+
+SELECT 
+movie_cast_rating.*, customer_master.star_name, customer_master.first_name, customer_master.last_name, customer_rating_master.description , 
+FROM 
+movie_cast_rating,customer_master,customer_rating_master ,movie_cast, movie_role_type_master, movie_role_type_master.description
+WHERE 
+movie_cast_rating.movie_id = 1371
+AND customer_master.customer_id = movie_cast_rating.customer_id 
+AND customer_rating_master.id = movie_cast_rating.rating_id 
+
+AND movie_cast.movie_id = movie_cast_rating.movie_id 
+AND movie_cast.customer_id = movie_cast_rating.customer_id 
+AND movie_role_type_master.id = movie_cast.role_type_id
+
+SELECT movie_studio.*, studio_master.name FROM movie_studio INNER JOIN studio_master ON (studio_master.id = movie_studio.studio_id) WHERE movie_studio.movie_id = 1371; 
+
+SELECT movie_cast_rating,customer_master.star_name, customer_master.first_name, customer_master.last_name, customer_rating_master.description, movie_role_type_master.description FROM customer_master,customer_rating_master ,movie_role_type_master, movie_cast INNER JOIN ON (movie_cast.customer_id = movie_cast_rating.customer_id) 
+WHERE movie_cast_rating.movie_id = 1371
+AND customer_master.customer_id = movie_cast_rating.customer_id 
+AND customer_rating_master.id = movie_cast_rating.rating_id 
+AND movie_cast.movie_id = movie_cast_rating.movie_id 
+AND movie_cast.customer_id = movie_cast_rating.customer_id 
+AND movie_role_type_master.id = movie_cast.role_type_id
+
+
+
+SELECT movie_cast.role_type_id, movie_cast.id, movie_cast_rating.id, customer_master.customer_id, customer_master.star_name, movie_role_type_master.description
+FROM  customer_master, movie_role_type_master, movie_cast, movie_cast_rating 
+WHERE movie_cast.movie_id = 1371 AND
+movie_cast.customer_id = 1833 AND
+movie_role_type_master.id = movie_cast.role_type_id AND
+customer_master.customer_id = movie_cast.customer_id AND 
+movie_cast_rating.movie_id = movie_cast.movie_id AND
+movie_cast_rating.customer_id = customer_master.customer_id 
+order by customer_master.star_name
