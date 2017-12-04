@@ -160,7 +160,12 @@ $tindustry = mysqli_fetch_assoc($tindustries);
 
 <a href="admin.php">Go Back to Home Page</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="admin_view_customer_new.php?custid=<?php echo $_REQUEST["custid"]; ?>">Back to View Cast</a>
+<?php if(isset($_REQUEST["custid"])) {?>
+	<a href="admin_view_customer_new.php?custid=<?php echo $_REQUEST["custid"]; ?>">Back to View Cast</a>
+<?php } else {?>
+	<a href="admin_view_customer_new.php">Back to View Cast</a>
+<?php }?>
+
 <br>
 <body bgcolor="#AACFF9">
 <?php if(isset($usermsg)) { 
