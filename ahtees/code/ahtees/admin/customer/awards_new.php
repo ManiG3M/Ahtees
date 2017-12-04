@@ -59,8 +59,16 @@ if (isset($_REQUEST["deleteaward"]))
 {
 	delete_record_secondary("customer_award", $_REQUEST["deleteaward"], "id");
 }
+if(isset($_REQUEST["movie_id"]))
+{
+	$qry = "SELECT movie_master.*, language_master.description FROM movie_master, language_master";
+	$qry.= " WHERE movie_master.active = 1  AND movie_master.id = " . $_REQUEST["movie_id"] ." AND language_master.id = movie_master.lang_id ORDER BY movie_master.name";
+	$movies = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+	$movie = mysqli_fetch_assoc($movies);
 
-if (isset($_REQUEST["movie_id"]) || isset($_POST["moviesearch"]))
+}
+
+if (isset($_POST["moviesearch"]))
 {
 	$qry = "SELECT movie_master.*, language_master.description FROM movie_master, language_master ";
 	$qry.= " WHERE movie_master.active = 1 and (movie_master.name LIKE '%".$_POST["moviesearch"]."%') AND language_master.id = movie_master.lang_id ORDER BY movie_master.name";

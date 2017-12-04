@@ -57,10 +57,18 @@ if (isset($_REQUEST["deletecast"]))
 	delete_record_secondary("movie_cast", $_REQUEST["deletecast"], "id");
 }
 
-if (isset($_POST["castsearch"]) || (isset($_REQUEST["mcastid"]))) 
+if ((isset($_POST["castsearch"])))
 {
 	$qry = "SELECT customer_master.*, movie_industry_master.description, talent_master.description as talent_description FROM customer_master, movie_industry_master, talent_master WHERE customer_master.status = 1 AND (customer_master.first_name LIKE '%".$_POST["castsearch"]."%' OR customer_master.last_name LIKE '%".$_POST["castsearch"]."%' OR customer_master.star_name LIKE '%".$_POST["castsearch"]."%') AND customer_master.primary_industry_id = movie_industry_master.id AND customer_master.primary_skill_id = talent_master.id order by customer_master.star_name";
-	//echo $qry;
+	echo $qry;
+	$customers = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
+	$customer = mysqli_fetch_assoc($customers);
+}
+
+if (isset($_REQUEST["mcastid"]))
+{
+	$qry = "SELECT customer_master.*, movie_industry_master.description, talent_master.description as talent_description FROM movie_cast, customer_master, movie_industry_master, talent_master WHERE customer_master.status = 1 AND movie_cast.id = " . $_REQUEST["mcastid"] . " AND customer_master.customer_id = movie_cast.customer_id  AND customer_master.primary_industry_id = movie_industry_master.id AND customer_master.primary_skill_id = talent_master.id order by customer_master.star_name";
+	
 	$customers = mysqli_query($connDB, $qry) or die('Query failed: ' . mysqli_error($connDB)); 
 	$customer = mysqli_fetch_assoc($customers);
 }
@@ -134,7 +142,7 @@ if (isset($_REQUEST["movie_id"]))
 						<select name="role_type_id">
 							<option value="0">Select one...</option>
 							<?php do { ?>
-							<option value ="<?php echo isset($roletype["id"]); ?>" 
+							<option value ="<?php echo $roletype["id"]; ?>" 
 								<?php if (isset($mccast["role_type_id"])&&($mccast["role_type_id"] == $roletype["id"])) {?>
 								selected
 								<?php } ?>>

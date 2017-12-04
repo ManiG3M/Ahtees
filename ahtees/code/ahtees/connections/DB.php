@@ -5,7 +5,7 @@
 $hostname_DB = "localhost";
 $database_DB = "ahtees";
 $username_DB = "root";
-$password_DB = "1234";
+$password_DB = "123!@#Krishna";
 
 //$hostname_DB = "custsql.sonic.net";
 //$database_DB = "language_3";

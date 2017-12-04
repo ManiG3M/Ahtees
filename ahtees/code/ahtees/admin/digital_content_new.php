@@ -111,5 +111,6 @@ if ($_REQUEST["custid"])
 		<?php } ?>
 		</td>
 	</tr>
-	<a href="admin_view_customer_new.php?custid=<? echo $_REQUEST["custid"]; ?>">Back to View Cast</a>
+	<a href="admin_view_customer_new.php?custid=<?php echo $_REQUEST["custid"]; ?>">Back to View Cast</a>
+	
 </table>

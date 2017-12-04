@@ -5,6 +5,7 @@ include('../connections/tablefuncs.php');
 session_start();
 date_default_timezone_set('Asia/Kolkata');
 
+
 if (!$_SESSION["userid"]) { header("location: login.php"); }
 
 
@@ -43,7 +44,6 @@ if (isset($_REQUEST["deletesong"]))
 	delete_record_secondary("song_review", $_REQUEST["deletesong"], "song_id");
 	delete_record_secondary("song_rating", $_REQUEST["deletesong"], "song_id");
 }
-
 function add_record2($table,$data){
 $connDB=$GLOBALS['connDB'];
 $field_string=NULL;
@@ -67,6 +67,7 @@ $value_string=NULL;
 	}
 	
 	$query = "INSERT INTO $table ($field_string) VALUES ($value_string)";
+	//echo "the queryinsertdata".$query;
 	// if query is not successful, show error and return
 	if (!mysqli_query($connDB,$query)) {
 		echo "<b>Error:</b> ".mysqli_error($connDB)."<br /><br /><b>Query was:</b> ".$query;
@@ -93,9 +94,9 @@ if (isset($_POST["addsonginfo"]))
 		$song_id = $return_code;
 
 		$usermsg = "<font size=4 color='green'>New Song Added</font>";
-		if ($_FILES['link']['name'])
+		if (isset($_FILES['link']['name']))
 		{
-			$target_path = "songs/content/".$song_id."_".$_FILES['link']['name'];
+			$target_path = str_replace(" ","","songs/content/".$song_id."_".$_FILES['link']['name']);
 
 			if(move_uploaded_file($_FILES['link']['tmp_name'], $target_path)) 
 			{
@@ -116,7 +117,7 @@ if (isset($_POST["editsonginfo"]))
 
 	echo "editing a song here";
 	
-	if ($_FILES['link']['name'])
+	if (isset($_FILES['link']['name']))
 	{
 		$qry = "SELECT * FROM song_master WHERE id =".$song_id;
 		$songs = mysqli_query($connDB, $qry) or die('2 Query failed: ' . mysqli_error($connDB)); 
@@ -126,7 +127,7 @@ if (isset($_POST["editsonginfo"]))
 			unlink($song["link"]);
 		}
 
-		$target_path = "songs/content/".$song_id."_".$_FILES['link']['name'];
+		$target_path = str_replace(" ","","songs/content/".$song_id."_".$_FILES['link']['name']);
 
 		echo "Moving from [" . $_FILES['link']['name'] ."] to [" . $target_path ."]\n";
 
@@ -140,10 +141,9 @@ if (isset($_POST["editsonginfo"]))
 	$usermsg = "<font color='green'>Song Updated [". $_FILES['link']['name'] ."]</font>";
 }
 
-if (!isset($_REQUEST["newsong"]))
+if (!isset($_REQUEST["newsong"]) && isset($song_id))
 {
 	$qry = "SELECT * FROM song_master WHERE id =".$song_id;
-	
 	$songs = mysqli_query($connDB, $qry) or die('3 Query failed: ' . mysqli_error($connDB)); 
 	$song = mysqli_fetch_assoc($songs);
 	
